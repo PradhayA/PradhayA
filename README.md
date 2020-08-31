@@ -1,4 +1,4 @@
-### Hi , it's Pradhay 👋
+## Hi , it's Pradhay 👋
 
 <!--
 **PradhayA/PradhayA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@
 
 
 
-## Welcome to my GitHub 😁 
+### Welcome to my GitHub 😁 
 
 I create projects that use Python, Java and other web programming technologies such as HTML, CSS and JS.
 
