@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi ,it's Pradhay 👋
 
 <!--
 **PradhayA/PradhayA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub 😁 
+
+I create projects that use Python, Java and other web programming technologies such as HTML, CSS and JS.
+
+I have created quite a few projects involving AI 🤖 and also created some websites 💻.
+
+I'm currently working on a coronavirus identification machine and also looking to build a chatbot too. 🔭 
+
+Please feel free to take a look at some of the projects that I have made in the collection of repositories. 😄
