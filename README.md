@@ -13,6 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
+
 Welcome to my GitHub 😁 
 
 I create projects that use Python, Java and other web programming technologies such as HTML, CSS and JS.
