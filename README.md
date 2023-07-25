@@ -18,12 +18,6 @@
 
 ### Welcome to my GitHub 😁 
 
-I create projects that use Java, Python, and other web programming technologies such as HTML, CSS and JS.
+I create projects that use Java, Python, C and C++.
 
-Some of the live running projects that I have done include a coffee ☕️ recommendation engine based on your tastes and a charity website; chatbot to address homelessness.
-
-I have created quite a few projects involving AI 🤖 and also created some websites 💻.
-
-I'm currently working on a coronavirus identification machine and also looking to build a chatbot too. 🔭 
-
-Please feel free to take a look at some of the projects that I have made in the collection of repositories. 😄
+Interested in Machine Learning and Web Development.
