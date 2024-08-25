@@ -18,6 +18,6 @@
 
 ### Welcome to my GitHub 😁 
 
-I create projects that use Java, Python, C and C++.
+I create projects that use Java, Rust, Python, C and C++.
 
 Interested in Machine Learning and Web Development.
