@@ -18,7 +18,7 @@
 
 ## Welcome to my GitHub 😁 
 
-Motivated CS Student with a passion for technology and experience with ML, Web Development, AI Safety and Ethics, Software Engineering, Medical Technologies, the Embedded World and Cloud Technologies.
+I'm a motivated CS Student with a passion for technology and experience with ML, Web Development, AI Safety and Ethics, Software Engineering, Medical Technologies, the Embedded World and Cloud Technologies.
 
 
 ## Progamming Languages & Skills
