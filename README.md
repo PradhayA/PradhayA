@@ -1,4 +1,4 @@
-## Hi , it's Pradhay 👋
+# Hi , it's Pradhay 👋
 
 <!--
 **PradhayA/PradhayA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,11 @@
 
 
 
-### Welcome to my GitHub 😁 
+## Welcome to my GitHub 😁 
 
-I create projects that use Java, Rust, Python, C and C++.
+Motivated CS Student with a passion for technology and experience with ML, Web Development, AI Safety and Ethics, Software Engineering, Medical Technologies, the Embedded World and Cloud Technologies.
 
-Interested in Machine Learning and Web Development.
+
+## Progamming Languages & Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,rust,cpp,c,js,haskell,scala,bash,aws&theme=dark)](https://skillicons.dev)
